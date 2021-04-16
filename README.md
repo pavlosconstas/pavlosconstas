@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @penguinthechef
-- 👀 I’m interested in web developement, Java, Linux, open-source,
+- 👀 I’m interested in web developement, Linux, open-source,
 - 🌱 I’m currently learning JS, Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
