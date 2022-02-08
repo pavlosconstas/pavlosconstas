@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavlosconstas
 - 👀 I’m interested in web developement, Linux, open-source,
-- 🌱 I’m currently learning Python, React, React Native, JavaScript/
+- 🌱 I’m currently learning Java, JavaScript, Rust
 - 📫 How to reach me email: penguin.the.chef@gmail.com
 
 <!---
