@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pavlosconstas
-- 👀 I’m interested in web developement, Linux, open-source,
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ML/AI
 - 📫 How to reach me email: pconstasm@gmail.com
 
 <!---
