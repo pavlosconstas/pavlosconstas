@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @pavlosconstas
-- 📫 How to reach me email: pconstasm@gmail.com
